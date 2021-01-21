@@ -1,4 +1,4 @@
-![](res/redox-github.jpg)
+![](res/Redox-github.jpg)
 # Redox.Ehr.OpenApi.Demo
 
 ## Introduction
